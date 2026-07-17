@@ -1,1 +1,1 @@
-#water monitoring system
+#made a project based on my understanding about the tkinter library in python 
